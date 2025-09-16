@@ -1,2 +1,2 @@
-# learning-splunk
-Learning Splunk
+learning-splunk
+# Learning Splunk
